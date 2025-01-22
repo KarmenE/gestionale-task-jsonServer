@@ -1,0 +1,5 @@
+{
+    "/tasks": "/tasks",
+    "/task/:id": "/tasks/:id"
+}
+  

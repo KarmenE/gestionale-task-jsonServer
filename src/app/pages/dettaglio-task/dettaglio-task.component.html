@@ -1,0 +1,19 @@
+
+<div class="container mt-5 d-flex flex-column align-items-center">
+
+    <div *ngIf="task" class="card w-50 p-4">
+
+      <h3 class="card-title text-center">{{ task.title }}</h3>
+      <div class="card-body">
+        <p class="card-text"><strong>Descrizione : </strong> {{ task.description }}</p>
+        <p class="card-text"><strong>Urgenza :</strong> {{ task.urgency }}</p>
+      </div>
+
+    </div>
+  
+    <button (click)="backHomepage()" class="btn btn-dark mt-4">Homepage</button>
+
+</div>
+  
+  
+  
