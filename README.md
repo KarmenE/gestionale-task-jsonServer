@@ -6,6 +6,7 @@ Tecnologie Utilizzate:
 * JSON Server: Un server REST fittizio che fornisce un backend simulato basato su un file JSON. Utile per lo sviluppo frontend senza la necessità di un backend completo.
 * Angular Material: Libreria di componenti UI Angular che implementa il Material Design di Google.
 * RxJS: Libreria per la programmazione reattiva con Angular, utilizzata per la gestione dei flussi di dati asincroni.
+* Bootstrap: per lo stile
 
 Funzionalità Principali
 * Visualizzazione dei Task: L'applicazione mostra un elenco dei task esistenti.
